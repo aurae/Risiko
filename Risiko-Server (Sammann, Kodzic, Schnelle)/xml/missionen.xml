@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<missionen>
+	<item nr="0" art="LAND">
+		<anzahl>24</anzahl>
+		<minStaerke>1</minStaerke>
+		<text>Befreien Sie 24 Länder Ihrer Wahl!</text>
+	</item>
+	<item nr="1" art="LAND">
+		<anzahl>18</anzahl>
+		<minStaerke>2</minStaerke>
+		<text>Befreien Sie 18 Länder und setzen Sie in jedes Land mindestens 2 Armeen!</text>
+	</item>
+	<item nr="2" art="KONTINENT">
+		<kontinent>Europa</kontinent>
+		<kontinent>Australien</kontinent>
+		<kontinent>DUMMY</kontinent>
+		<text>Befreien Sie Europa, Australien und einen dritten Kontinent Ihrer Wahl!</text>
+	</item>
+	<item nr="3" art="KONTINENT">
+		<kontinent>Nordamerika</kontinent>
+		<kontinent>Australien</kontinent>
+		<text>Befreien Sie Nordamerika und Australien!</text>
+	</item>
+	<item nr="4" art="KONTINENT">
+		<kontinent>Asien</kontinent>
+		<kontinent>Südamerika</kontinent>
+		<text>Befreien Sie Asien und Südamerika!</text>
+	</item>
+	<item nr="5" art="KONTINENT">
+		<kontinent>Europa</kontinent>
+		<kontinent>Südamerika</kontinent>
+		<kontinent>DUMMY</kontinent>
+		<text>Befreien Sie Europa, Südamerika und einen dritten Kontinent Ihrer Wahl!</text>
+	</item>
+	<item nr="6" art="KONTINENT">
+		<kontinent>Afrika</kontinent>
+		<kontinent>Asien</kontinent>
+		<text>Befreien Sie Afrika und Asien!</text>
+	</item>
+	<item nr="7" art="KONTINENT">
+		<kontinent>Nordamerika</kontinent>
+		<kontinent>Afrika</kontinent>
+		<text>Befreien Sie Nordamerika und Afrika!</text>
+	</item>
+	<item nr="8" art="BEFREIUNG">
+		<farbe>ROT</farbe>
+		<text>Befreien Sie alle Länder von den roten Armeen!</text>
+	</item>
+	<item nr="9" art="BEFREIUNG">
+		<farbe>BLAU</farbe>
+		<text>Befreien Sie alle Länder von den blauen Armeen!</text>
+	</item>
+	<item nr="10" art="BEFREIUNG">
+		<farbe>SCHWARZ</farbe>
+		<text>Befreien Sie alle Länder von den schwarzen Armeen!</text>
+	</item>
+	<item nr="11" art="BEFREIUNG">
+		<farbe>GELB</farbe>
+		<text>Befreien Sie alle Länder von den gelben Armeen!</text>
+	</item>
+	<item nr="12" art="BEFREIUNG">
+		<farbe>GRÜN</farbe>
+		<text>Befreien Sie alle Länder von den grünen Armeen!</text>
+	</item>
+	<item nr="13" art="BEFREIUNG">
+		<farbe>PINK</farbe>
+		<text>Befreien Sie alle Länder von den rosafarbenen Armeen!</text>
+	</item>
+</missionen>
