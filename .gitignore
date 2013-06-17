@@ -1,0 +1,7 @@
+# Build
+Risiko-Client (Sammann, Kodzic, Schnelle)/bin/
+Risiko-Commons (Sammann, Kodzic, Schnelle)/bin/
+Risiko-Server (Sammann, Kodzic, Schnelle)/bin/
+
+# MacOS
+.DS_STORE
