@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<welt>
+	<kon name="Europa">
+	<laender>
+		<land name="Island">
+			<nachbar>Grönland</nachbar>
+			<nachbar>Großbritannien</nachbar>
+			<nachbar>Skandinavien</nachbar>
+			<farbMap>0X8778f8</farbMap>
+			<button x="358" y="163">o</button>
+			<symbol>REITER</symbol>
+		</land>
+		<land name="Skandinavien">
+			<nachbar>Island</nachbar>
+			<nachbar>Großbritannien</nachbar>
+			<nachbar>Ukraine</nachbar>
+			<nachbar>Mitteleuropa</nachbar>
+			<farbMap>0X3922e9</farbMap>
+			<button x="418" y="161">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+		<land name="Ukraine">
+			<nachbar>Skandinavien</nachbar>
+			<nachbar>Ural</nachbar>
+			<nachbar>Afghanistan</nachbar>
+			<nachbar>Mittlerer Osten</nachbar>
+			<nachbar>Südeuropa</nachbar>
+			<nachbar>Mitteleuropa</nachbar>
+			<farbMap>0X1e00ff</farbMap>
+			<button x="477" y="174">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="Großbritannien">
+			<nachbar>Island</nachbar>
+			<nachbar>Skandinavien</nachbar>
+			<nachbar>Mitteleuropa</nachbar>
+			<farbMap>0Xa49ed2</farbMap>
+			<button x="377" y="210">o</button>
+			<symbol>REITER</symbol>
+		</land>
+		<land name="Mitteleuropa">
+			<nachbar>Großbritannien</nachbar>
+			<nachbar>Skandinavien</nachbar>
+			<nachbar>Ukraine</nachbar>
+			<nachbar>Südeuropa</nachbar>
+			<nachbar>Westeuropa</nachbar>
+			<farbMap>0X4d3ad8</farbMap>
+			<button x="422" y="217">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+		<land name="Westeuropa">
+			<nachbar>Mitteleuropa</nachbar>
+			<nachbar>Südeuropa</nachbar>
+			<nachbar>Nordwestafrika</nachbar>
+			<farbMap>0X005afe</farbMap>
+			<button x="383" y="242">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="Südeuropa">
+			<nachbar>Mitteleuropa</nachbar>
+			<nachbar>Ukraine</nachbar>
+			<nachbar>Mittlerer Osten</nachbar>
+			<nachbar>Ägypten</nachbar>
+			<nachbar>Nordwestafrika</nachbar>
+			<nachbar>Westeuropa</nachbar>
+			<farbMap>0X537fd1</farbMap>
+			<button x="424" y="252">o</button>
+			<symbol>REITER</symbol>
+		</land>
+	</laender>
+	</kon>
+	<kon name="Asien">
+	<laender>
+		<land name="Ural">
+			<nachbar>Sibirien</nachbar>
+			<nachbar>China</nachbar>
+			<nachbar>Afghanistan</nachbar>
+			<nachbar>Ukraine</nachbar>
+			<farbMap>0X8e3838</farbMap>
+			<button x="548" y="180">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+		<land name="Sibirien">
+			<nachbar>Jakutien</nachbar>
+			<nachbar>Irkutsk</nachbar>
+			<nachbar>Mongolei</nachbar>
+			<nachbar>China</nachbar>
+			<nachbar>Ural</nachbar>
+			<farbMap>0X9f5454</farbMap>
+			<button x="584" y="166">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="Jakutien">
+			<nachbar>Kamtschatka</nachbar>
+			<nachbar>Irkutsk</nachbar>
+			<nachbar>Sibirien</nachbar>
+			<farbMap>0Xb97575</farbMap>
+			<button x="655" y="132">o</button>
+			<symbol>REITER</symbol>
+		</land>
+		<land name="Irkutsk">
+			<nachbar>Jakutien</nachbar>
+			<nachbar>Kamtschatka</nachbar>
+			<nachbar>Mongolei</nachbar>
+			<nachbar>Sibirien</nachbar>
+			<farbMap>0Xcb8282</farbMap>
+			<button x="638" y="187">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+		<land name="Kamtschatka">
+			<nachbar>Alaska</nachbar>
+			<nachbar>Japan</nachbar>
+			<nachbar>Mongolei</nachbar>
+			<nachbar>Irkutsk</nachbar>
+			<nachbar>Jakutien</nachbar>
+			<farbMap>0Xf49fa0</farbMap>
+			<button x="720" y="159">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="Mongolei">
+			<nachbar>Irkutsk</nachbar>
+			<nachbar>Kamtschatka</nachbar>
+			<nachbar>Japan</nachbar>
+			<nachbar>China</nachbar>
+			<nachbar>Sibirien</nachbar>
+			<farbMap>0Xb90c0c</farbMap>
+			<button x="659" y="229">o</button>
+			<symbol>REITER</symbol>
+		</land>
+		<land name="Japan">
+			<nachbar>Kamtschatka</nachbar>
+			<nachbar>Mongolei</nachbar>
+			<farbMap>0Xf76c6d</farbMap>
+			<button x="706" y="262">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+		<land name="Afghanistan">
+			<nachbar>Ural</nachbar>
+			<nachbar>China</nachbar>
+			<nachbar>Indien</nachbar>
+			<nachbar>Mittlerer Osten</nachbar>
+			<nachbar>Ukraine</nachbar>
+			<farbMap>0X7b1e1e</farbMap>
+			<button x="532" y="251">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="China">
+			<nachbar>Ural</nachbar>
+			<nachbar>Sibirien</nachbar>
+			<nachbar>Mongolei</nachbar>
+			<nachbar>Siam</nachbar>
+			<nachbar>Indien</nachbar>
+			<nachbar>Afghanistan</nachbar>
+			<farbMap>0Xcb2d2d</farbMap>
+			<button x="652" y="289">o</button>
+			<symbol>REITER</symbol>
+		</land>
+		<land name="Mittlerer Osten">
+			<nachbar>Ukraine</nachbar>
+			<nachbar>Afghanistan</nachbar>
+			<nachbar>Indien</nachbar>
+			<nachbar>Ägypten</nachbar>
+			<nachbar>Südeuropa</nachbar>
+			<farbMap>0Xf7c9c9</farbMap>
+			<button x="495" y="307">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+		<land name="Indien">
+			<nachbar>Afghanistan</nachbar>
+			<nachbar>China</nachbar>
+			<nachbar>Siam</nachbar>
+			<nachbar>Mittlerer Osten</nachbar>
+			<farbMap>0Xfc6464</farbMap>
+			<button x="560" y="292">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="Siam">
+			<nachbar>China</nachbar>
+			<nachbar>Indonesien</nachbar>
+			<nachbar>Indien</nachbar>
+			<farbMap>0Xff0000</farbMap>
+			<button x="649" y="344">o</button>
+			<symbol>REITER</symbol>
+		</land>
+	</laender>
+	</kon>
+	<kon name="Australien">
+	<laender>
+		<land name="Indonesien">
+			<nachbar>Neu-Guinea</nachbar>
+			<nachbar>West-Australien</nachbar>
+			<nachbar>Siam</nachbar>
+			<farbMap>0Xf1f5a5</farbMap>
+			<button x="668" y="388">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+		<land name="Neu-Guinea">
+			<nachbar>Ost-Australien</nachbar>
+			<nachbar>West-Australien</nachbar>
+			<nachbar>Indonesien</nachbar>
+			<farbMap>0Xf4fd5a</farbMap>
+			<button x="734" y="392">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="West-Australien">
+			<nachbar>Neu-Guinea</nachbar>
+			<nachbar>Ost-Australien</nachbar>
+			<nachbar>Indonesien</nachbar>
+			<farbMap>0Xf0ff00</farbMap>
+			<button x="669" y="450">o</button>
+			<symbol>REITER</symbol>
+		</land>
+		<land name="Ost-Australien">
+			<nachbar>Neu-Guinea</nachbar>
+			<nachbar>West-Australien</nachbar>
+			<farbMap>0Xc6ce3a</farbMap>
+			<button x="742" y="480">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+	</laender>
+	</kon>
+	<kon name="Afrika">
+	<laender>
+		<land name="Nordwestafrika">
+			<nachbar>Südeuropa</nachbar>
+			<nachbar>Ägypten</nachbar>
+			<nachbar>Ostafrika</nachbar>
+			<nachbar>Kongo</nachbar>
+			<nachbar>Brasilien</nachbar>
+			<nachbar>Westeuropa</nachbar>
+			<farbMap>0Xa06006</farbMap>
+			<button x="380" y="306">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="Ägypten">
+			<nachbar>Mittlerer Osten</nachbar>
+			<nachbar>Ostafrika</nachbar>
+			<nachbar>Nordwestafrika</nachbar>
+			<nachbar>Südeuropa</nachbar>
+			<farbMap>0Xb9802e</farbMap>
+			<button x="436" y="297">o</button>
+			<symbol>REITER</symbol>
+		</land>
+		<land name="Ostafrika">
+			<nachbar>Madagaskar</nachbar>
+			<nachbar>Südafrika</nachbar>
+			<nachbar>Kongo</nachbar>
+			<nachbar>Nordwestafrika</nachbar>
+			<nachbar>Ägypten</nachbar>
+			<farbMap>0Xda9c43</farbMap>
+			<button x="487" y="381">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+		<land name="Kongo">
+			<nachbar>Ostafrika</nachbar>
+			<nachbar>Südafrika</nachbar>
+			<nachbar>Nordwestafrika</nachbar>
+			<farbMap>0Xeeb35f</farbMap>
+			<button x="437" y="385">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="Südafrika">
+			<nachbar>Ostafrika</nachbar>
+			<nachbar>Madagaskar</nachbar>
+			<nachbar>Kongo</nachbar>
+			<farbMap>0Xa36b1b</farbMap>
+			<button x="444" y="484">o</button>
+			<symbol>REITER</symbol>
+		</land>
+		<land name="Madagaskar">
+			<nachbar>Ostafrika</nachbar>
+			<nachbar>Südafrika</nachbar>
+			<farbMap>0X7b4f0f</farbMap>
+			<button x="498" y="454">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+	</laender>
+	</kon>
+	<kon name="Nordamerika">
+	<laender>
+		<land name="Alaska">
+			<nachbar>Nordwest-Territorium</nachbar>
+			<nachbar>Alberta</nachbar>
+			<nachbar>Kamtschatka</nachbar>
+			<farbMap>0xfe65ff</farbMap>
+			<button x="107" y="139">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="Nordwest-Territorium">
+			<nachbar>Grönland</nachbar>
+			<nachbar>Ontario</nachbar>
+			<nachbar>Alberta</nachbar>
+			<nachbar>Alaska</nachbar>
+			<farbMap>0xec98ed</farbMap>
+			<button x="164" y="143">o</button>
+			<symbol>REITER</symbol>
+		</land>
+		<land name="Grönland">
+			<nachbar>Island</nachbar>
+			<nachbar>Quebec</nachbar>
+			<nachbar>Ontario</nachbar>
+			<nachbar>Nordwest-Territorium</nachbar>
+			<farbMap>0xfc00ff</farbMap>
+			<button x="331" y="131">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+		<land name="Alberta">
+			<nachbar>Nordwest-Territorium</nachbar>
+			<nachbar>Ontario</nachbar>
+			<nachbar>Weststaaten</nachbar>
+			<nachbar>Alaska</nachbar>
+			<farbMap>0Xa843a9</farbMap>
+			<button x="170" y="184">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="Ontario">
+			<nachbar>Grönland</nachbar>
+			<nachbar>Quebec</nachbar>
+			<nachbar>Oststaaten</nachbar>
+			<nachbar>Weststaaten</nachbar>
+			<nachbar>Alberta</nachbar>
+			<nachbar>Nordwest-Territorium</nachbar>
+			<farbMap>0Xec52ed</farbMap>
+			<button x="228" y="198">o</button>
+			<symbol>REITER</symbol>
+		</land>
+		<land name="Quebec">
+			<nachbar>Grönland</nachbar>
+			<nachbar>Oststaaten</nachbar>
+			<nachbar>Ontario</nachbar>
+			<farbMap>0X961797</farbMap>
+			<button x="283" y="185">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+		<land name="Weststaaten">
+			<nachbar>Ontario</nachbar>
+			<nachbar>Oststaaten</nachbar>
+			<nachbar>Mittelamerika</nachbar>
+			<nachbar>Alberta</nachbar>
+			<farbMap>0Xf8b4f8</farbMap>
+			<button x="163" y="243">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="Oststaaten">
+			<nachbar>Ontario</nachbar>
+			<nachbar>Quebec</nachbar>
+			<nachbar>Mittelamerika</nachbar>
+			<nachbar>Weststaaten</nachbar>
+			<farbMap>0X79007a</farbMap>
+			<button x="238" y="246">o</button>
+			<symbol>REITER</symbol>
+		</land>
+		<land name="Mittelamerika">
+			<nachbar>Oststaaten</nachbar>
+			<nachbar>Venezuela</nachbar>
+			<nachbar>Weststaaten</nachbar>
+			<farbMap>0X9c649d</farbMap>
+			<button x="177" y="285">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+	</laender>
+	</kon>
+	<kon name="Südamerika">
+	<laender>
+		<land name="Venezuela">
+			<nachbar>Mittelamerika</nachbar>
+			<nachbar>Brasilien</nachbar>
+			<nachbar>Peru</nachbar>
+			<farbMap>0X2a9518</farbMap>
+			<button x="229" y="329">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+		<land name="Peru">
+			<nachbar>Venezuela</nachbar>
+			<nachbar>Brasilien</nachbar>
+			<nachbar>Argentinien</nachbar>
+			<farbMap>0X75ea61</farbMap>
+			<button x="221" y="379">o</button>
+			<symbol>REITER</symbol>
+		</land>
+		<land name="Brasilien">
+			<nachbar>Nordwestafrika</nachbar>
+			<nachbar>Argentinien</nachbar>
+			<nachbar>Peru</nachbar>
+			<nachbar>Venezuela</nachbar>
+			<farbMap>0X3dde22</farbMap>
+			<button x="293" y="390">o</button>
+			<symbol>KANONE</symbol>
+		</land>
+		<land name="Argentinien">
+			<nachbar>Brasilien</nachbar>
+			<nachbar>Peru</nachbar>
+			<farbMap>0Xb0f9a3</farbMap>
+			<button x="252" y="437">o</button>
+			<symbol>SOLDAT</symbol>
+		</land>
+	</laender>
+	</kon>
+</welt>
